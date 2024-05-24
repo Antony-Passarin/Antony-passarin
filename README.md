@@ -1,16 +1,5 @@
-## Hi there 👋
-
-<!--
-**Antony-Passarin/Antony-passarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about PROGRAMEITION
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: IM NOT GRINGO
--->
+😲 **Seja bem vindo ao meu perfil** 😲
+https://c.tenor.com/N3xEHKqbKvIAAAAC/tenor.gif
+       🖥️ _Antony Passarin_ 🖥️
+       Estudante de Programação
+     Focado em HTML5 E JAVASCRIPT
