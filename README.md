@@ -1,8 +1,15 @@
 😲 **Seja bem vindo ao meu perfil** 😲
-![](https://tenor.com/view/cherryfurby-whos-awesome-youre-awesome-glitter-puppy-dog-gif-3998145459110226674)
+
+![](https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif) 
+
        🖥️ _Antony Passarin_ 🖥️
-       Estudante de Programação
+       Estudante de Programação   
      Focado em HTML5 E JAVASCRIPT
+     
+![](https://media1.tenor.com/m/rweh-xPsyqMAAAAC/vaheed.gif)
+
      Faço cursos na UDEMY E ALURA  
        Speedrunner de outlast
-       Não trabalho em equipe
+       Não trabalho bem em equipe
+       
+![](https://media1.tenor.com/m/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif)
