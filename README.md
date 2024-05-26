@@ -1,8 +1,8 @@
 <h1> 😲 **Seja bem vindo ao meu perfil** 😲 </h1>
 
-![](https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif)
+ <img src="https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif" alt="whos awesome, yes you awesome">
 
-<h3 aligh-itens="center">
+<h3 style="text-align: center; " >
 	🖥️ _Antony Passarin_ 🖥️
        Estudante de Programação   
      Focado em HTML5 E JAVASCRIPT
