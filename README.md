@@ -1,11 +1,13 @@
-😲 **Seja bem vindo ao meu perfil** 😲
+<h1> 😲 **Seja bem vindo ao meu perfil** 😲 </h1>
 
 ![](https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif)
 
-       🖥️ _Antony Passarin_ 🖥️
+<h3 aligh-itens="center">
+	🖥️ _Antony Passarin_ 🖥️
        Estudante de Programação   
      Focado em HTML5 E JAVASCRIPT
-     
+ </h3>    
+ 
 ![](https://media1.tenor.com/m/rweh-xPsyqMAAAAC/vaheed.gif)
 
      Faço cursos na UDEMY E ALURA  
