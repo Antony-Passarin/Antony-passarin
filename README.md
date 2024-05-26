@@ -2,34 +2,40 @@
 
  <img src="https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif" alt="whos awesome, yes you awesome">
 
-<h3 style="text-align: center; " >
-	🖥️ _Antony Passarin_ 🖥️
-       Estudante de Programação   
-     Focado em HTML5 E JAVASCRIPT
- </h3>    
+<ul>
+	<li>🖥️ _Antony Passarin_ 🖥️</li>
+    <li>   Estudante de Programação   </li>
+    <li> Focado em HTML5 E JAVASCRIPT </li>
+ </ul>    
  
-![](https://media1.tenor.com/m/rweh-xPsyqMAAAAC/vaheed.gif)
+  <img  src="https://media1.tenor.com/m/rweh-xPsyqMAAAAC/vaheed.gif" alt="the cat is slaping in the duck ">
 
-     Faço cursos na UDEMY E ALURA  
-       Speedrunner de outlast
-      Não trabalho bem em equipe
+  <ul>	
+    <li> Faço cursos na UDEMY E ALURA </li>  
+      <li> Speedrunner de outlast </li>
+     <li> Não trabalho bem em equipe </li>
+</ul>
        
-![](https://media1.tenor.com/m/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif)
+<img src="https://media1.tenor.com/m/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif" alt="nerd">
 
-    Pretendo ser Analista de sistemas
-    	Cientista de dados
-     	     ou uber
+ <ul>
+    <li> Pretendo ser Analista de sistemas </li>
+    <li>	Cientista de dados </li>
+     <li>	     ou uber </li>
+ </ul>
 
-![](https://media1.tenor.com/m/__DSlkIFAAsAAAAC/pepe-pepega.gif)
+ <img src="https://media1.tenor.com/m/__DSlkIFAAsAAAAC/pepe-pepega.gif" alt="pepe driving">
 
-	Trabalho com manutenção de aparelhos eletronicos 
- 	Gerenciamento de financias
-  Criacao de aplicativos
+<ul>
+<li>	Trabalho com manutenção de aparelhos eletronicos </li> 
+ <li>	Gerenciamento de financias </li>
+  <li> Criacao de aplicativos </li>
+</ul>
 
-![](https://media1.tenor.com/m/DaSh5T93TgUAAAAC/cat-typing.gif)
-
-  Tenho 17 anos
-  Sem formação
-  Iniciante em programação
-
-![](https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif)
+  <img src="https://media1.tenor.com/m/DaSh5T93TgUAAAAC/cat-typing.gif" alt="gatito escrievindo">
+<ul>
+ <li> Tenho 17 anos </li>
+  <li> Sem formação </li>
+  <li> Iniciante em programação </li>
+</ul>
+ <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" alt="gato oculus">
