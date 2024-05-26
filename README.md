@@ -1,5 +1,8 @@
+
 <h1> 😲 **Seja bem vindo ao meu perfil** 😲 </h1>
 
+
+	
  <img src="https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif" alt="whos awesome, yes you awesome">
 
 <ul>
@@ -39,3 +42,11 @@
   <li> Iniciante em programação </li>
 </ul>
  <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" alt="gato oculus">
+
+<ul>
+<li> instagram </li>
+ <li> linkedin </li>
+<li> 
+</ul>
+
+<img src="https://tenor.com/pt-PT/view/hamster-meme-staring-hd-watching-gif-23055924" alt="hamster shocked"></img>
