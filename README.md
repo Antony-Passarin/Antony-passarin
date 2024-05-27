@@ -1,14 +1,14 @@
 
 
-<h1> 😲 **Seja bem vindo ao meu perfil** 😲 </h1>
+<h1>😲 Seja bem vindo ao meu perfil 😲</h1>
 
 
 	
-<div class="turip" style="align: center;"> 
+<div align="center"> 
     <img src="https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif" alt="whos awesome, yes you awesome">
 
   <ul>
-        <li>🖥️ _Antony Passarin_ 🖥️</li>
+        <h2>🖥️ _Antony Passarin_ 🖥️</h2>
         <li>   Estudante de Programação   </li>
         <li> Focado em HTML5 E JAVASCRIPT </li>
      </ul>    
