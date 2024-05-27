@@ -1,4 +1,5 @@
 
+
 <h1> 😲 **Seja bem vindo ao meu perfil** 😲 </h1>
 
 
@@ -44,9 +45,13 @@
  <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" alt="gato oculus">
 
 <ul>
-<li> instagram </li>
+<li><a href="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif">Instagram</a></li>
  <li> linkedin </li>
 <li> 
 </ul>
 
-<img src="https://tenor.com/pt-PT/view/hamster-meme-staring-hd-watching-gif-23055924" alt="hamster shocked"></img>
+<img src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif" alt="hamster shocked">
+
+
+
+
