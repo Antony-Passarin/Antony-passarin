@@ -46,8 +46,8 @@
 
 <ul>
 <li><a href="https://www.instagram.com/antony_passarin?utm_source=qr&igsh=c29vb3FpeXk0ZnB6">Instagram</a></li>
- <li> linkedin </li>
-<li> 
+ <li><a href="www.linkedin.com/in/antony-passarin-6ba1452a2>LinkedIn</a></li>
+<li><a href="">xibiu</a></li>
 </ul>
 
 <img src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif" alt="hamster shocked">
