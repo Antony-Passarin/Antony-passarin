@@ -46,7 +46,7 @@
 
 <ul>
 <li><a href="https://www.instagram.com/antony_passarin?utm_source=qr&igsh=c29vb3FpeXk0ZnB6">Instagram</a></li>
- <li><a href="www.linkedin.com/in/antony-passarin-6ba1452a2">LinkedIn</a></li>
+ <li><a href="https://www.linkedin.com/in/antony-passarin-6ba1452a2/?trk=opento_sprofile_topcard">LinkedIn</a></li>
 <li><a href="">xibiu</a>t4wt4</li>
 </ul>
 
