@@ -13,7 +13,7 @@
         <li> Focado em HTML5 E JAVASCRIPT </li>
      </ul>    
      
-<img  src="https://media1.tenor.com/m/rweh-xPsyqMAAAAC/vaheed.gif" alt="the cat is slaping in the duck ">
+<a href="https://www.instagram.com/caroline.bioeu?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img  src="https://media1.tenor.com/m/rweh-xPsyqMAAAAC/vaheed.gif" alt="the cat is slaping in the duck "></a>
     
   <ul>	
   <li> Faço cursos na UDEMY E ALURA </li>  
