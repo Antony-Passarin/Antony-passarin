@@ -4,7 +4,7 @@
 
 
 	
-<div class="turip" style="text-align: center;"> 
+<div class="turip" style="align: center;"> 
     <img src="https://media1.tenor.com/m/N3xEHKqbKvIAAAAC/cherryfurby-whos-awesome-youre-awesome.gif" alt="whos awesome, yes you awesome">
 
   <ul>
