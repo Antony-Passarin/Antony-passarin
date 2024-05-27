@@ -47,7 +47,7 @@
 <ul>
 <li><a href="https://www.instagram.com/antony_passarin?utm_source=qr&igsh=c29vb3FpeXk0ZnB6">Instagram</a></li>
  <li><a href="https://www.linkedin.com/in/antony-passarin-6ba1452a2/?trk=opento_sprofile_topcard">LinkedIn</a></li>
-<li><a href="https://me-qr.com/b9oSNHA2">Whatsapp</a> button</li>
+<li><a href="https://me-qr.com/b9oSNHA2">Whatsapp</a> <button>  <a href="https://antony-passarin.github.io/imagem-qr-code/" target="_blank">QR CODE</a></button></li>
 </ul>
 
 <img src="https://media1.tenor.com/m/9RCIDZjkhBsAAAAC/hamster-meme.gif" alt="hamster shocked">
